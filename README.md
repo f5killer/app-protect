@@ -5,6 +5,10 @@ This runs NGINX as Reverse Proxy and enables App Protect
 Listens on Port 80 and proxies the request to the back-end application on port 9090
 Change the endpoints as required
 
+Note:
+Load the NGINX App Protect module on the main context in `nginx.conf` file:
+
+      load_module modules/ngx_http_app_protect_module.so;
 
 
 ## default_server.conf - This runs a default server on port 9090
