@@ -14,3 +14,21 @@ Change the endpoints as required
   Default Security policy has been enabled
   Note the location of the default policy and edit as required
   Note the location of the logs and review them as required
+
+
+## Testing:
+
+On the Virtual Machine:
+1. curl "localhost"
+
+<!DOCTYPE html>
+<html>
+<head>
+.
+.
+.
+
+  
+  
+2. curl "localhost/?</script>"
+<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: 18381064594571692234<br><br><a href='javascript:history.back();'>[Go Back]</a></body></html>
