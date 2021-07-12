@@ -21,12 +21,12 @@ Change the endpoints as required
 On the Virtual Machine:
 1. curl "localhost"
 
-<!DOCTYPE html>
+"<!DOCTYPE html>
 <html>
 <head>
 .
 .
-.
+."
 
   
   
