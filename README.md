@@ -23,10 +23,10 @@ Load the NGINX App Protect module on the main context in `nginx.conf` file:
 ## Testing:
 
 On the Virtual Machine:
-1. curl "localhost"
+1. `curl "localhost"`
 
 Welcome to nginx!
 
   
-2. curl "localhost/?</script>"
+2. `curl "localhost/?</script>"`
 <html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: 18381064594571692234<br><br><a href='javascript:history.back();'>[Go Back]</a></body></html>
